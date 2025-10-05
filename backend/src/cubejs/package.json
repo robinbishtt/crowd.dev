@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@cubejs-backend/server-core": "^0.32.27"
+    "@cubejs-backend/server-core": "^0.36.11"
   }
 }
