@@ -14,8 +14,7 @@
     "tsc-check": "./node_modules/.bin/tsc --noEmit"
   },
   "dependencies": {
-    "@crowd/archetype-worker": "file:../../archetypes/worker",main
-    "@types/node": "^20.8.2",
+ main
     "config": "^3.3.9",
     "ts-node": "^10.9.1",
     "tsconfig-paths": "^4.2.0",
