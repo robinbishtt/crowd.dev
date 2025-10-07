@@ -25,7 +25,7 @@
     "@crowd/tracing": "file:../../libs/tracing",
     "@crowd/types": "file:../../libs/types",
     "@crowd/alerting": "file:../../libs/alerting",
-    "@types/config": "^3.3.0",
+
     "ts-node": "^10.9.1",
     "tsconfig-paths": "^4.2.0",
     "typescript": "^5.9.2"
