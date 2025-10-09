@@ -32,8 +32,7 @@
     "@crowd/sqs": "file:../../libs/sqs",
     "@crowd/tracing": "file:../../libs/tracing",
     "@crowd/types": "file:../../libs/types",
-main
-    "config": "^3.3.9",
+ main
     "lodash.clonedeep": "^4.5.0",
     "lodash.isequal": "^4.5.0",
     "lodash.mergewith": "^4.6.2",
