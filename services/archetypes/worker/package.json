@@ -10,11 +10,7 @@
   },
   "dependencies": {
     "@crowd/archetype-standard": "file:../../archetypes/standard",
-    "@crowd/database": "file:../../libs/database",
-    "@temporalio/client": "~1.8.6",
-    "@temporalio/worker": "~1.13.0",
-    "@temporalio/workflow": "~1.8.6",
-    "config": "^3.3.9",
+    "@crowd/database": "file:../../libs/database",main
     "ts-node": "^10.9.1",
     "tsconfig-paths": "^4.2.0"
   },
