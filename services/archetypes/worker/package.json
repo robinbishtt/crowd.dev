@@ -14,7 +14,7 @@
     "@temporalio/client": "~1.8.6",
     "@temporalio/worker": "~1.8.6",
     "@temporalio/workflow": "~1.8.6",
-    "config": "^3.3.9",
+    "config": "^3.3.12",
     "ts-node": "^10.9.1",
     "tsconfig-paths": "^4.2.0"
   },
