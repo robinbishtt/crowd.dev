@@ -26,7 +26,7 @@
     "@crowd/types": "file:../types",
     "@octokit/auth-app": "^4.0.13",
     "@octokit/graphql": "^5.0.6",
-    "axios": "^1.4.0",
+    "axios": "^1.12.2",
     "he": "^1.2.0",
     "sanitize-html": "^2.10.0",
     "verify-github-webhook": "^1.0.1"
