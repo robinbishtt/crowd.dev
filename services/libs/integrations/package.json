@@ -28,7 +28,7 @@
     "@octokit/graphql": "^5.0.6",
     "axios": "^1.4.0",
     "he": "^1.2.0",
-    "sanitize-html": "^2.10.0",
+    "sanitize-html": "^2.17.0",
     "verify-github-webhook": "^1.0.1"
   }
 }
