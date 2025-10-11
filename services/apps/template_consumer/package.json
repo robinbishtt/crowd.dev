@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "@crowd/archetype-consumer": "file:../../archetypes/consumer",
-    "@types/config": "^3.3.1",
+    "@types/config": "^3.3.5",
     "@types/node": "^20.8.2",
     "config": "^3.3.9",
     "ts-node": "^10.9.1",
