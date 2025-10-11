@@ -44,7 +44,7 @@
     "script:generate-merge-suggestions": "SERVICE=script TS_NODE_TRANSPILE_ONLY=true node -r tsconfig-paths/register -r ts-node/register src/bin/scripts/generate-merge-suggestions.ts"
   },
   "dependencies": {
-    "@aws-sdk/client-comprehend": "^3.359.0",
+    "@aws-sdk/client-comprehend": "^3.893.0",
     "@aws-sdk/hash-node": "^3.226.0",
     "@aws-sdk/protocol-http": "^3.226.0",
     "@aws-sdk/s3-request-presigner": "^3.893.0",
