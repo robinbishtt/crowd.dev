@@ -45,7 +45,7 @@
     "@opensearch-project/opensearch": "^1.2.0",
     "@types/config": "^3.3.0",
     "@types/node": "^18.16.3",
-    "config": "^3.3.9",
+    "config": "^3.3.12",
     "ts-node": "^10.9.1",
     "tsconfig-paths": "^4.2.0",
     "typescript": "^5.0.4"
