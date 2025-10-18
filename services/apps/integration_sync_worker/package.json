@@ -25,7 +25,7 @@
     "@crowd/integrations": "file:../../libs/integrations",
     "@opensearch-project/opensearch": "^1.2.0",
     "@types/config": "^3.3.5",
-    "@types/node": "^18.16.3",
+    "@types/node": "^18.19.127",
     "config": "^3.3.9",
     "ts-node": "^10.9.1",
     "tsconfig-paths": "^4.2.0",
