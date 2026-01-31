@@ -18,7 +18,7 @@
     "kafkajs": "~2.2.4",
     "ts-node": "^10.9.1",
     "tsconfig-paths": "^4.2.0",
-    "unleash-client": "~4.1.1"
+    "unleash-client": "~6.9.4"
   },
   "devDependencies": {
     "@types/config": "^3.3.1",
